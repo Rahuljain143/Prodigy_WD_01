@@ -30,12 +30,6 @@ We welcome contributions to enhance Floret and improve our services. If you woul
 ## License
 This project is created as part of an internship and is intended for educational purposes only. It is not licensed for commercial use.
 
-## Contact
-If you have any questions or need assistance, please feel free to reach out to us:
-- **Email:** support@floret.com
-- **Phone:** +1-800-FLORET
-- **Website:** [Floret Website](https://floret12.netlify.app/)
-
 ## Created by
 This landing page is created by Rahul Jain as part of an internship project.
 
